@@ -64,7 +64,7 @@ He also made other not as well known [lisps prior to Clojure](lisps).
 * [Simple Made Easy (Mar 2012)](http://infoq.com/presentations/Simple-Made-Easy-QCon-London-2012)
 * [The Design of Datomic (Mar 2012)](http://infoq.com/presentations/The-Design-of-Datomic)
 * [Keynote - Areas of Interest for Clojure's Core (Nov 2011)](https://youtube.com/watch?v=I5iNUtrYQSM)
-* [Simple Made Easy (Sep 2011)](http://infoq.com/presentations/Simple-Made-Easy)
+* [~~Simple Made Easy (Sep 2011)~~](http://infoq.com/presentations/Simple-Made-Easy)
 * [ClojureScript Release (Jul 2011)](https://youtube.com/watch?v=tVooR-dF_Ag)
 * [Hammock Driven Development (Oct 2010)](https://youtube.com/watch?v=f84n5oFoZBc)
 * [Are We There Yet? (Sep 2009)](http://infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)
