@@ -41,7 +41,7 @@ He also made other not as well known [lisps prior to Clojure](lisps).
 * [Clojure Made Simple (Jun 2015)](https://youtube.com/watch?v=VSdnJDO-xdg)
 * [Inside Transducers (Nov 2014)](https://youtube.com/watch?v=4KqUvG8HPYo)
 * [Transducers (Sept 2014)](https://www.youtube.com/watch?v=6mTbuzafcII)
-* [Implementation details of core.async Channels (Jun 2014)](https://vimeo.com/100518968)
+* [~~Implementation details of core.async Channels (Jun 2014)~~](https://vimeo.com/100518968)
 * [Core.async - Communicating Sequential Processes using Channels, in Clojure (Nov 2013)](http://infoq.com/presentations/core-async-clojure)
 * [Harmonikit (Nov 2013)](https://youtube.com/watch?v=bhkdyCPYgLs)
 * [Design, Composition, and Performance (Nov 2013)](http://infoq.com/presentations/design-composition-performance-keynote)
