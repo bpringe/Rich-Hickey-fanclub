@@ -50,7 +50,7 @@ He also made other not as well known [lisps prior to Clojure](lisps).
 * [Design, Composition and Performance (Apr 2013)](http://infoq.com/presentations/Design-Composition-Performance)
 * [Clojure Data Structures Part 1 (Dec 2012)](https://youtube.com/watch?v=ketJlzX-254)
 * [Clojure Data Structures Part 2 (Dec 2012)](https://youtube.com/watch?v=sp2Zv7KFQQ0)
-* [The Language of the System (Nov 2012)](https://youtube.com/watch?v=ROor6_NGIWU)
+* [~~The Language of the System (Nov 2012)~~](https://youtube.com/watch?v=ROor6_NGIWU)
 * [Deconstructing the Database (Nov 2012)](http://infoq.com/presentations/Deconstructing-Database)
 * [The Value of Values (Jul 2012)](https://youtube.com/watch?v=-6BsiVyC1kM)
 * [Deconstructing the Database (Jul 2012)](https://youtube.com/watch?v=Cym4TZwTCNU)
