@@ -56,7 +56,7 @@ He also made other not as well known [lisps prior to Clojure](lisps).
 * [Deconstructing the Database (Jul 2012)](https://youtube.com/watch?v=Cym4TZwTCNU)
 * [Reducers - A Library and Model for Collection Processing (Jun 2012)](https://web.archive.org/web/20160404200630/http://www.infoq.com/presentations/Clojure-Reducers)
 * [The Database as a Value (Jun 2012)](http://infoq.com/presentations/Datomic-Database-Value)
-* [Keynote: The Value of Values (May 2012)](http://infoq.com/presentations/Value-Values)
+* [~~Keynote: The Value of Values (May 2012)~~](http://infoq.com/presentations/Value-Values)
 * [~~Writing Datomic in Clojure (May 2012)~~](http://infoq.com/presentations/Datomic)
 * [Reducers (May 2012)](https://vimeo.com/45561411)
 * [Keynote: The Datomic Architecture and Data Model - Rich Hickey (May 2012)](https://vimeo.com/45136212)
