@@ -47,7 +47,7 @@ He also made other not as well known [lisps prior to Clojure](lisps).
 * [Design, Composition, and Performance (Nov 2013)](http://infoq.com/presentations/design-composition-performance-keynote)
 * [Clojure core.async (Sep 2013)](http://infoq.com/presentations/clojure-core-async)
 * [The Functional Database (Jun 2013)](http://infoq.com/presentations/datomic-functional-database)
-* [Design, Composition and Performance (Apr 2013)](http://infoq.com/presentations/Design-Composition-Performance)
+* [~~Design, Composition and Performance (Apr 2013)~~](http://infoq.com/presentations/Design-Composition-Performance)
 * [Clojure Data Structures Part 1 (Dec 2012)](https://youtube.com/watch?v=ketJlzX-254)
 * [Clojure Data Structures Part 2 (Dec 2012)](https://youtube.com/watch?v=sp2Zv7KFQQ0)
 * [~~The Language of the System (Nov 2012)~~](https://youtube.com/watch?v=ROor6_NGIWU)
