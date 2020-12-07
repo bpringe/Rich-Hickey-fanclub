@@ -60,7 +60,7 @@ He also made other not as well known [lisps prior to Clojure](lisps).
 * [~~Writing Datomic in Clojure (May 2012)~~](http://infoq.com/presentations/Datomic)
 * [Reducers (May 2012)](https://vimeo.com/45561411)
 * [Keynote: The Datomic Architecture and Data Model - Rich Hickey (May 2012)](https://vimeo.com/45136212)
-* [~~Keynote: Simplicity Matters by Rich Hickey (Apr 2012)](https://youtube.com/watch?v=rI8tNMsozo0)
+* [~~Keynote: Simplicity Matters by Rich Hickey (Apr 2012)~~](https://youtube.com/watch?v=rI8tNMsozo0)
 * [Simple Made Easy (Mar 2012)](http://infoq.com/presentations/Simple-Made-Easy-QCon-London-2012)
 * [The Design of Datomic (Mar 2012)](http://infoq.com/presentations/The-Design-of-Datomic)
 * [Keynote - Areas of Interest for Clojure's Core (Nov 2011)](https://youtube.com/watch?v=I5iNUtrYQSM)
